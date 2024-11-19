@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "831527386697",
+    "firebase_url": "https://baselink-it-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baselink-it",
+    "storage_bucket": "baselink-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831527386697:android:f02327e3461653ad67c998",
+        "android_client_info": {
+          "package_name": "com.example.anythinggroup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAi3B1inkOYqcvJHj3kFLVu0u4KLxEUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

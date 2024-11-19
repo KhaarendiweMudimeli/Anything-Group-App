@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up" />
+    <string name="retype_your_password" />
+    <string name="type_your_password" />
+    <string name="type_your_email" />
+    <string name="email" />
+    <string name="password" />
+    <string name="sign_in" />
+    <string name="sign_in_if_registered">SIGN IN IF REGISTERED</string>
+    <string name="todo">TODO</string>
+</resources>
